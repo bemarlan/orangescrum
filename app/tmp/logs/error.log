@@ -1,0 +1,714 @@
+2018-04-06 13:36:07 Warning: Warning (2): in_array() expects parameter 2 to be array, null given in [/Applications/MAMP/htdocs/orangescrum/app/Model/ProjectUser.php, line 33]
+Trace:
+in_array - [internal], line ??
+ProjectUser::getAllNotifyUser() - APP/Model/ProjectUser.php, line 33
+EasycasesController::ajaxemail() - APP/Controller/EasycasesController.php, line 4459
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 13:39:35 Warning: Warning (2): array_key_exists() expects parameter 2 to be array, null given in [/Applications/MAMP/htdocs/orangescrum/app/Controller/ReportsController.php, line 1093]
+Trace:
+array_key_exists - [internal], line ??
+ReportsController::tasks_trend() - APP/Controller/ReportsController.php, line 1093
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 13:39:35 Warning: Warning (2): array_key_exists() expects parameter 2 to be array, null given in [/Applications/MAMP/htdocs/orangescrum/app/Controller/ReportsController.php, line 1093]
+Trace:
+array_key_exists - [internal], line ??
+ReportsController::tasks_trend() - APP/Controller/ReportsController.php, line 1093
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 13:39:35 Warning: Warning (2): array_key_exists() expects parameter 2 to be array, null given in [/Applications/MAMP/htdocs/orangescrum/app/Controller/ReportsController.php, line 1093]
+Trace:
+array_key_exists - [internal], line ??
+ReportsController::tasks_trend() - APP/Controller/ReportsController.php, line 1093
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 13:39:35 Warning: Warning (2): array_key_exists() expects parameter 2 to be array, null given in [/Applications/MAMP/htdocs/orangescrum/app/Controller/ReportsController.php, line 1093]
+Trace:
+array_key_exists - [internal], line ??
+ReportsController::tasks_trend() - APP/Controller/ReportsController.php, line 1093
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 13:39:35 Warning: Warning (2): array_key_exists() expects parameter 2 to be array, null given in [/Applications/MAMP/htdocs/orangescrum/app/Controller/ReportsController.php, line 1093]
+Trace:
+array_key_exists - [internal], line ??
+ReportsController::tasks_trend() - APP/Controller/ReportsController.php, line 1093
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 13:39:35 Warning: Warning (2): array_key_exists() expects parameter 2 to be array, null given in [/Applications/MAMP/htdocs/orangescrum/app/Controller/ReportsController.php, line 1093]
+Trace:
+array_key_exists - [internal], line ??
+ReportsController::tasks_trend() - APP/Controller/ReportsController.php, line 1093
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 13:39:35 Warning: Warning (2): array_key_exists() expects parameter 2 to be array, null given in [/Applications/MAMP/htdocs/orangescrum/app/Controller/ReportsController.php, line 1093]
+Trace:
+array_key_exists - [internal], line ??
+ReportsController::tasks_trend() - APP/Controller/ReportsController.php, line 1093
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 13:39:35 Warning: Warning (2): array_key_exists() expects parameter 2 to be array, null given in [/Applications/MAMP/htdocs/orangescrum/app/Controller/ReportsController.php, line 1093]
+Trace:
+array_key_exists - [internal], line ??
+ReportsController::tasks_trend() - APP/Controller/ReportsController.php, line 1093
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 13:39:43 Warning: Warning (2): Illegal string offset 'hrs' in [/Applications/MAMP/htdocs/orangescrum/app/View/Elements/weekly_usage.ctp, line 135]
+Trace:
+include - APP/View/Elements/weekly_usage.ctp, line 135
+View::_evaluate() - CORE/Cake/View/View.php, line 929
+View::_render() - CORE/Cake/View/View.php, line 891
+View::_renderElement() - CORE/Cake/View/View.php, line 1189
+View::element() - CORE/Cake/View/View.php, line 406
+include - APP/View/Report/weeklyusage_report.ctp, line 11
+View::_evaluate() - CORE/Cake/View/View.php, line 929
+View::_render() - CORE/Cake/View/View.php, line 891
+View::render() - CORE/Cake/View/View.php, line 460
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 192
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 13:41:21 Warning: Warning (2): in_array() expects parameter 2 to be array, null given in [/Applications/MAMP/htdocs/orangescrum/app/Model/ProjectUser.php, line 33]
+Trace:
+in_array - [internal], line ??
+ProjectUser::getAllNotifyUser() - APP/Model/ProjectUser.php, line 33
+EasycasesController::ajaxemail() - APP/Controller/EasycasesController.php, line 4461
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 13:43:45 Warning: Warning (2): in_array() expects parameter 2 to be array, null given in [/Applications/MAMP/htdocs/orangescrum/app/Model/ProjectUser.php, line 33]
+Trace:
+in_array - [internal], line ??
+ProjectUser::getAllNotifyUser() - APP/Model/ProjectUser.php, line 33
+EasycasesController::ajaxemail() - APP/Controller/EasycasesController.php, line 4459
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 13:55:42 Warning: Warning (2): array_key_exists() expects parameter 2 to be array, null given in [/Applications/MAMP/htdocs/orangescrum/app/Controller/ReportsController.php, line 1093]
+Trace:
+array_key_exists - [internal], line ??
+ReportsController::tasks_trend() - APP/Controller/ReportsController.php, line 1093
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 13:55:42 Warning: Warning (2): array_key_exists() expects parameter 2 to be array, null given in [/Applications/MAMP/htdocs/orangescrum/app/Controller/ReportsController.php, line 1093]
+Trace:
+array_key_exists - [internal], line ??
+ReportsController::tasks_trend() - APP/Controller/ReportsController.php, line 1093
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 13:55:42 Warning: Warning (2): array_key_exists() expects parameter 2 to be array, null given in [/Applications/MAMP/htdocs/orangescrum/app/Controller/ReportsController.php, line 1093]
+Trace:
+array_key_exists - [internal], line ??
+ReportsController::tasks_trend() - APP/Controller/ReportsController.php, line 1093
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 13:55:42 Warning: Warning (2): array_key_exists() expects parameter 2 to be array, null given in [/Applications/MAMP/htdocs/orangescrum/app/Controller/ReportsController.php, line 1093]
+Trace:
+array_key_exists - [internal], line ??
+ReportsController::tasks_trend() - APP/Controller/ReportsController.php, line 1093
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 13:55:42 Warning: Warning (2): array_key_exists() expects parameter 2 to be array, null given in [/Applications/MAMP/htdocs/orangescrum/app/Controller/ReportsController.php, line 1093]
+Trace:
+array_key_exists - [internal], line ??
+ReportsController::tasks_trend() - APP/Controller/ReportsController.php, line 1093
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 13:55:42 Warning: Warning (2): array_key_exists() expects parameter 2 to be array, null given in [/Applications/MAMP/htdocs/orangescrum/app/Controller/ReportsController.php, line 1093]
+Trace:
+array_key_exists - [internal], line ??
+ReportsController::tasks_trend() - APP/Controller/ReportsController.php, line 1093
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 13:55:42 Warning: Warning (2): array_key_exists() expects parameter 2 to be array, null given in [/Applications/MAMP/htdocs/orangescrum/app/Controller/ReportsController.php, line 1093]
+Trace:
+array_key_exists - [internal], line ??
+ReportsController::tasks_trend() - APP/Controller/ReportsController.php, line 1093
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 13:55:42 Warning: Warning (2): array_key_exists() expects parameter 2 to be array, null given in [/Applications/MAMP/htdocs/orangescrum/app/Controller/ReportsController.php, line 1093]
+Trace:
+array_key_exists - [internal], line ??
+ReportsController::tasks_trend() - APP/Controller/ReportsController.php, line 1093
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 13:55:44 Warning: Warning (2): array_key_exists() expects parameter 2 to be array, null given in [/Applications/MAMP/htdocs/orangescrum/app/Controller/ReportsController.php, line 1093]
+Trace:
+array_key_exists - [internal], line ??
+ReportsController::tasks_trend() - APP/Controller/ReportsController.php, line 1093
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 13:55:44 Warning: Warning (2): array_key_exists() expects parameter 2 to be array, null given in [/Applications/MAMP/htdocs/orangescrum/app/Controller/ReportsController.php, line 1093]
+Trace:
+array_key_exists - [internal], line ??
+ReportsController::tasks_trend() - APP/Controller/ReportsController.php, line 1093
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 13:55:44 Warning: Warning (2): array_key_exists() expects parameter 2 to be array, null given in [/Applications/MAMP/htdocs/orangescrum/app/Controller/ReportsController.php, line 1093]
+Trace:
+array_key_exists - [internal], line ??
+ReportsController::tasks_trend() - APP/Controller/ReportsController.php, line 1093
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 13:55:44 Warning: Warning (2): array_key_exists() expects parameter 2 to be array, null given in [/Applications/MAMP/htdocs/orangescrum/app/Controller/ReportsController.php, line 1093]
+Trace:
+array_key_exists - [internal], line ??
+ReportsController::tasks_trend() - APP/Controller/ReportsController.php, line 1093
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 13:55:44 Warning: Warning (2): array_key_exists() expects parameter 2 to be array, null given in [/Applications/MAMP/htdocs/orangescrum/app/Controller/ReportsController.php, line 1093]
+Trace:
+array_key_exists - [internal], line ??
+ReportsController::tasks_trend() - APP/Controller/ReportsController.php, line 1093
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 13:55:44 Warning: Warning (2): array_key_exists() expects parameter 2 to be array, null given in [/Applications/MAMP/htdocs/orangescrum/app/Controller/ReportsController.php, line 1093]
+Trace:
+array_key_exists - [internal], line ??
+ReportsController::tasks_trend() - APP/Controller/ReportsController.php, line 1093
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 13:55:44 Warning: Warning (2): array_key_exists() expects parameter 2 to be array, null given in [/Applications/MAMP/htdocs/orangescrum/app/Controller/ReportsController.php, line 1093]
+Trace:
+array_key_exists - [internal], line ??
+ReportsController::tasks_trend() - APP/Controller/ReportsController.php, line 1093
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 13:55:44 Warning: Warning (2): array_key_exists() expects parameter 2 to be array, null given in [/Applications/MAMP/htdocs/orangescrum/app/Controller/ReportsController.php, line 1093]
+Trace:
+array_key_exists - [internal], line ??
+ReportsController::tasks_trend() - APP/Controller/ReportsController.php, line 1093
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 15:01:19 Warning: Warning (2): array_key_exists() expects parameter 2 to be array, null given in [/Applications/MAMP/htdocs/orangescrum/app/Controller/ReportsController.php, line 1093]
+Trace:
+array_key_exists - [internal], line ??
+ReportsController::tasks_trend() - APP/Controller/ReportsController.php, line 1093
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 15:01:19 Warning: Warning (2): array_key_exists() expects parameter 2 to be array, null given in [/Applications/MAMP/htdocs/orangescrum/app/Controller/ReportsController.php, line 1093]
+Trace:
+array_key_exists - [internal], line ??
+ReportsController::tasks_trend() - APP/Controller/ReportsController.php, line 1093
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 15:01:19 Warning: Warning (2): array_key_exists() expects parameter 2 to be array, null given in [/Applications/MAMP/htdocs/orangescrum/app/Controller/ReportsController.php, line 1093]
+Trace:
+array_key_exists - [internal], line ??
+ReportsController::tasks_trend() - APP/Controller/ReportsController.php, line 1093
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 15:01:19 Warning: Warning (2): array_key_exists() expects parameter 2 to be array, null given in [/Applications/MAMP/htdocs/orangescrum/app/Controller/ReportsController.php, line 1093]
+Trace:
+array_key_exists - [internal], line ??
+ReportsController::tasks_trend() - APP/Controller/ReportsController.php, line 1093
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 15:01:19 Warning: Warning (2): array_key_exists() expects parameter 2 to be array, null given in [/Applications/MAMP/htdocs/orangescrum/app/Controller/ReportsController.php, line 1093]
+Trace:
+array_key_exists - [internal], line ??
+ReportsController::tasks_trend() - APP/Controller/ReportsController.php, line 1093
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 15:01:19 Warning: Warning (2): array_key_exists() expects parameter 2 to be array, null given in [/Applications/MAMP/htdocs/orangescrum/app/Controller/ReportsController.php, line 1093]
+Trace:
+array_key_exists - [internal], line ??
+ReportsController::tasks_trend() - APP/Controller/ReportsController.php, line 1093
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 15:01:19 Warning: Warning (2): array_key_exists() expects parameter 2 to be array, null given in [/Applications/MAMP/htdocs/orangescrum/app/Controller/ReportsController.php, line 1093]
+Trace:
+array_key_exists - [internal], line ??
+ReportsController::tasks_trend() - APP/Controller/ReportsController.php, line 1093
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 15:01:19 Warning: Warning (2): array_key_exists() expects parameter 2 to be array, null given in [/Applications/MAMP/htdocs/orangescrum/app/Controller/ReportsController.php, line 1093]
+Trace:
+array_key_exists - [internal], line ??
+ReportsController::tasks_trend() - APP/Controller/ReportsController.php, line 1093
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 15:01:26 Warning: Warning (2): array_key_exists() expects parameter 2 to be array, null given in [/Applications/MAMP/htdocs/orangescrum/app/Controller/ReportsController.php, line 1093]
+Trace:
+array_key_exists - [internal], line ??
+ReportsController::tasks_trend() - APP/Controller/ReportsController.php, line 1093
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 15:01:26 Warning: Warning (2): array_key_exists() expects parameter 2 to be array, null given in [/Applications/MAMP/htdocs/orangescrum/app/Controller/ReportsController.php, line 1093]
+Trace:
+array_key_exists - [internal], line ??
+ReportsController::tasks_trend() - APP/Controller/ReportsController.php, line 1093
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 15:01:26 Warning: Warning (2): array_key_exists() expects parameter 2 to be array, null given in [/Applications/MAMP/htdocs/orangescrum/app/Controller/ReportsController.php, line 1093]
+Trace:
+array_key_exists - [internal], line ??
+ReportsController::tasks_trend() - APP/Controller/ReportsController.php, line 1093
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 15:01:26 Warning: Warning (2): array_key_exists() expects parameter 2 to be array, null given in [/Applications/MAMP/htdocs/orangescrum/app/Controller/ReportsController.php, line 1093]
+Trace:
+array_key_exists - [internal], line ??
+ReportsController::tasks_trend() - APP/Controller/ReportsController.php, line 1093
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 15:01:26 Warning: Warning (2): array_key_exists() expects parameter 2 to be array, null given in [/Applications/MAMP/htdocs/orangescrum/app/Controller/ReportsController.php, line 1093]
+Trace:
+array_key_exists - [internal], line ??
+ReportsController::tasks_trend() - APP/Controller/ReportsController.php, line 1093
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 15:01:26 Warning: Warning (2): array_key_exists() expects parameter 2 to be array, null given in [/Applications/MAMP/htdocs/orangescrum/app/Controller/ReportsController.php, line 1093]
+Trace:
+array_key_exists - [internal], line ??
+ReportsController::tasks_trend() - APP/Controller/ReportsController.php, line 1093
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 15:01:26 Warning: Warning (2): array_key_exists() expects parameter 2 to be array, null given in [/Applications/MAMP/htdocs/orangescrum/app/Controller/ReportsController.php, line 1093]
+Trace:
+array_key_exists - [internal], line ??
+ReportsController::tasks_trend() - APP/Controller/ReportsController.php, line 1093
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 15:01:26 Warning: Warning (2): array_key_exists() expects parameter 2 to be array, null given in [/Applications/MAMP/htdocs/orangescrum/app/Controller/ReportsController.php, line 1093]
+Trace:
+array_key_exists - [internal], line ??
+ReportsController::tasks_trend() - APP/Controller/ReportsController.php, line 1093
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 15:01:34 Warning: Warning (2): Illegal string offset 'hrs' in [/Applications/MAMP/htdocs/orangescrum/app/View/Elements/weekly_usage.ctp, line 135]
+Trace:
+include - APP/View/Elements/weekly_usage.ctp, line 135
+View::_evaluate() - CORE/Cake/View/View.php, line 929
+View::_render() - CORE/Cake/View/View.php, line 891
+View::_renderElement() - CORE/Cake/View/View.php, line 1189
+View::element() - CORE/Cake/View/View.php, line 406
+include - APP/View/Report/weeklyusage_report.ctp, line 11
+View::_evaluate() - CORE/Cake/View/View.php, line 929
+View::_render() - CORE/Cake/View/View.php, line 891
+View::render() - CORE/Cake/View/View.php, line 460
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 192
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 15:01:34 Warning: Warning (2): Illegal string offset 'hrs' in [/Applications/MAMP/htdocs/orangescrum/app/View/Elements/weekly_usage.ctp, line 135]
+Trace:
+include - APP/View/Elements/weekly_usage.ctp, line 135
+View::_evaluate() - CORE/Cake/View/View.php, line 929
+View::_render() - CORE/Cake/View/View.php, line 891
+View::_renderElement() - CORE/Cake/View/View.php, line 1189
+View::element() - CORE/Cake/View/View.php, line 406
+include - APP/View/Report/weeklyusage_report.ctp, line 11
+View::_evaluate() - CORE/Cake/View/View.php, line 929
+View::_render() - CORE/Cake/View/View.php, line 891
+View::render() - CORE/Cake/View/View.php, line 460
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 192
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 15:02:05 Warning: Warning (2): array_key_exists() expects parameter 2 to be array, null given in [/Applications/MAMP/htdocs/orangescrum/app/Controller/ReportsController.php, line 1093]
+Trace:
+array_key_exists - [internal], line ??
+ReportsController::tasks_trend() - APP/Controller/ReportsController.php, line 1093
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 15:02:05 Warning: Warning (2): array_key_exists() expects parameter 2 to be array, null given in [/Applications/MAMP/htdocs/orangescrum/app/Controller/ReportsController.php, line 1093]
+Trace:
+array_key_exists - [internal], line ??
+ReportsController::tasks_trend() - APP/Controller/ReportsController.php, line 1093
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 15:02:05 Warning: Warning (2): array_key_exists() expects parameter 2 to be array, null given in [/Applications/MAMP/htdocs/orangescrum/app/Controller/ReportsController.php, line 1093]
+Trace:
+array_key_exists - [internal], line ??
+ReportsController::tasks_trend() - APP/Controller/ReportsController.php, line 1093
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 15:02:05 Warning: Warning (2): array_key_exists() expects parameter 2 to be array, null given in [/Applications/MAMP/htdocs/orangescrum/app/Controller/ReportsController.php, line 1093]
+Trace:
+array_key_exists - [internal], line ??
+ReportsController::tasks_trend() - APP/Controller/ReportsController.php, line 1093
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 15:02:05 Warning: Warning (2): array_key_exists() expects parameter 2 to be array, null given in [/Applications/MAMP/htdocs/orangescrum/app/Controller/ReportsController.php, line 1093]
+Trace:
+array_key_exists - [internal], line ??
+ReportsController::tasks_trend() - APP/Controller/ReportsController.php, line 1093
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 15:02:05 Warning: Warning (2): array_key_exists() expects parameter 2 to be array, null given in [/Applications/MAMP/htdocs/orangescrum/app/Controller/ReportsController.php, line 1093]
+Trace:
+array_key_exists - [internal], line ??
+ReportsController::tasks_trend() - APP/Controller/ReportsController.php, line 1093
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 15:02:05 Warning: Warning (2): array_key_exists() expects parameter 2 to be array, null given in [/Applications/MAMP/htdocs/orangescrum/app/Controller/ReportsController.php, line 1093]
+Trace:
+array_key_exists - [internal], line ??
+ReportsController::tasks_trend() - APP/Controller/ReportsController.php, line 1093
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 15:02:05 Warning: Warning (2): array_key_exists() expects parameter 2 to be array, null given in [/Applications/MAMP/htdocs/orangescrum/app/Controller/ReportsController.php, line 1093]
+Trace:
+array_key_exists - [internal], line ??
+ReportsController::tasks_trend() - APP/Controller/ReportsController.php, line 1093
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 15:07:56 Warning: Warning (2): Illegal string offset 'allfiles' in [/Applications/MAMP/htdocs/orangescrum/app/Controller/Component/PostcaseComponent.php, line 418]
+Trace:
+PostcaseComponent::casePosting() - APP/Controller/Component/PostcaseComponent.php, line 418
+EasycasesController::ajaxpostcase() - APP/Controller/EasycasesController.php, line 371
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 15:07:56 Warning: Warning (2): Illegal string offset 'storage' in [/Applications/MAMP/htdocs/orangescrum/app/Controller/Component/PostcaseComponent.php, line 418]
+Trace:
+PostcaseComponent::casePosting() - APP/Controller/Component/PostcaseComponent.php, line 418
+EasycasesController::ajaxpostcase() - APP/Controller/EasycasesController.php, line 371
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 15:07:56 Warning: Warning (2): Illegal string offset 'file_error' in [/Applications/MAMP/htdocs/orangescrum/app/Controller/Component/PostcaseComponent.php, line 418]
+Trace:
+PostcaseComponent::casePosting() - APP/Controller/Component/PostcaseComponent.php, line 418
+EasycasesController::ajaxpostcase() - APP/Controller/EasycasesController.php, line 371
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 15:07:56 Warning: Warning (2): in_array() expects parameter 2 to be array, null given in [/Applications/MAMP/htdocs/orangescrum/app/Model/ProjectUser.php, line 33]
+Trace:
+in_array - [internal], line ??
+ProjectUser::getAllNotifyUser() - APP/Model/ProjectUser.php, line 33
+EasycasesController::ajaxemail() - APP/Controller/EasycasesController.php, line 4459
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 15:09:43 Warning: Warning (2): array_key_exists() expects parameter 2 to be array, null given in [/Applications/MAMP/htdocs/orangescrum/app/Controller/ReportsController.php, line 1093]
+Trace:
+array_key_exists - [internal], line ??
+ReportsController::tasks_trend() - APP/Controller/ReportsController.php, line 1093
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 15:09:43 Warning: Warning (2): array_key_exists() expects parameter 2 to be array, null given in [/Applications/MAMP/htdocs/orangescrum/app/Controller/ReportsController.php, line 1093]
+Trace:
+array_key_exists - [internal], line ??
+ReportsController::tasks_trend() - APP/Controller/ReportsController.php, line 1093
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 15:09:43 Warning: Warning (2): array_key_exists() expects parameter 2 to be array, null given in [/Applications/MAMP/htdocs/orangescrum/app/Controller/ReportsController.php, line 1093]
+Trace:
+array_key_exists - [internal], line ??
+ReportsController::tasks_trend() - APP/Controller/ReportsController.php, line 1093
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 15:09:43 Warning: Warning (2): array_key_exists() expects parameter 2 to be array, null given in [/Applications/MAMP/htdocs/orangescrum/app/Controller/ReportsController.php, line 1093]
+Trace:
+array_key_exists - [internal], line ??
+ReportsController::tasks_trend() - APP/Controller/ReportsController.php, line 1093
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 15:09:43 Warning: Warning (2): array_key_exists() expects parameter 2 to be array, null given in [/Applications/MAMP/htdocs/orangescrum/app/Controller/ReportsController.php, line 1093]
+Trace:
+array_key_exists - [internal], line ??
+ReportsController::tasks_trend() - APP/Controller/ReportsController.php, line 1093
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 15:09:43 Warning: Warning (2): array_key_exists() expects parameter 2 to be array, null given in [/Applications/MAMP/htdocs/orangescrum/app/Controller/ReportsController.php, line 1093]
+Trace:
+array_key_exists - [internal], line ??
+ReportsController::tasks_trend() - APP/Controller/ReportsController.php, line 1093
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 15:09:43 Warning: Warning (2): array_key_exists() expects parameter 2 to be array, null given in [/Applications/MAMP/htdocs/orangescrum/app/Controller/ReportsController.php, line 1093]
+Trace:
+array_key_exists - [internal], line ??
+ReportsController::tasks_trend() - APP/Controller/ReportsController.php, line 1093
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 15:09:43 Warning: Warning (2): array_key_exists() expects parameter 2 to be array, null given in [/Applications/MAMP/htdocs/orangescrum/app/Controller/ReportsController.php, line 1093]
+Trace:
+array_key_exists - [internal], line ??
+ReportsController::tasks_trend() - APP/Controller/ReportsController.php, line 1093
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 15:09:56 Warning: Warning (2): Illegal string offset 'hrs' in [/Applications/MAMP/htdocs/orangescrum/app/View/Elements/weekly_usage.ctp, line 135]
+Trace:
+include - APP/View/Elements/weekly_usage.ctp, line 135
+View::_evaluate() - CORE/Cake/View/View.php, line 929
+View::_render() - CORE/Cake/View/View.php, line 891
+View::_renderElement() - CORE/Cake/View/View.php, line 1189
+View::element() - CORE/Cake/View/View.php, line 406
+include - APP/View/Report/weeklyusage_report.ctp, line 11
+View::_evaluate() - CORE/Cake/View/View.php, line 929
+View::_render() - CORE/Cake/View/View.php, line 891
+View::render() - CORE/Cake/View/View.php, line 460
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 192
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+
+2018-04-06 15:09:56 Warning: Warning (2): Illegal string offset 'hrs' in [/Applications/MAMP/htdocs/orangescrum/app/View/Elements/weekly_usage.ctp, line 135]
+Trace:
+include - APP/View/Elements/weekly_usage.ctp, line 135
+View::_evaluate() - CORE/Cake/View/View.php, line 929
+View::_render() - CORE/Cake/View/View.php, line 891
+View::_renderElement() - CORE/Cake/View/View.php, line 1189
+View::element() - CORE/Cake/View/View.php, line 406
+include - APP/View/Report/weeklyusage_report.ctp, line 11
+View::_evaluate() - CORE/Cake/View/View.php, line 929
+View::_render() - CORE/Cake/View/View.php, line 891
+View::render() - CORE/Cake/View/View.php, line 460
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 192
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 92
+

@@ -1,2 +1,12 @@
 /app/tmp/*
 /app/webroot/files/case_files/*
+
+/lib/.DS_Store
+/lib/Cake/.DS_Store
+/.DS_Store
+/app/.DS_Store
+/app/Config/.DS_Store
+
+/app/tmp/logs/error.log
+
+/sftp-config.json
