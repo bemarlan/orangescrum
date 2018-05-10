@@ -40,9 +40,9 @@ class DATABASE_CONFIG {
 		'datasource' => 'Database/Mysql',
 		'persistent' => false,
 		'host' => 'localhost',
-		'login' => 'root',
-		'password' => 'root',
-		'database' => 'orangescrum',
+		'login' => 'lanninbe_orange',
+		'password' => 'reynolds',
+		'database' => 'lanninbe_orangescrum',
 		'prefix' => '',
 		'encoding' => 'utf8',
 	);

@@ -17,7 +17,7 @@ define("EMAIL_DELIVERY", "smtp");
 define("SMTP_HOST", "ssl://smtp.gmail.com");
 define("SMTP_PORT", "465");
 define("SMTP_UNAME", "beverlymlanning@gmail.com");
-define("SMTP_PWORD", "Am3114te");
+define("SMTP_PWORD", "");
 //https://www.arclab.com/en/amlc/list-of-smtp-and-imap-servers-mailserver-list.html (Get the list of Host names)
 
 ### OR ###
@@ -48,7 +48,7 @@ define('FROM_EMAIL_NOTIFY', 'beverlymlanning@gmail.com'); //(REQUIRED)
 define('SUPPORT_EMAIL', 'beverlymlanning@gmail.com'); //(REQUIRED) From Email
 define('FROM_EMAIL',  'Orangescrum<'.SUPPORT_EMAIL.'>');
 
-define("DEV_EMAIL", 'developer@mycompany.com'); // Developer Email ID to report the application error
+define("DEV_EMAIL", 'developer@beverly.com'); // Developer Email ID to report the application error
 define('EMAIL_SUBJ', '[Orangescrum]');
 
 // If you have not yet set up the Nohup cronjob, leave it blank
