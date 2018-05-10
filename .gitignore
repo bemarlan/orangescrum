@@ -8,5 +8,8 @@
 /app/Config/.DS_Store
 
 /app/tmp/logs/error.log
+/app/Config/database.php
+/app/Config/constants.php
 
 /sftp-config.json
+
